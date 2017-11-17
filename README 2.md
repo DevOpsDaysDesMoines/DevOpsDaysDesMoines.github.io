@@ -9,7 +9,12 @@
 * theme-primary and theme-secondary colors are found in css/main.scss
 * header background image is found near line 158 of \_sass/\_base.scss
 
-
+## TODO:
+*
+Q: Got content hiding somewhere? Else its just a landing page.
+A: Only needs to be a landing page with links to the event page and the Twitter hotness and maybe a local attractive section,
+  but since we don't have the after hours party planned yet that might be premature.
+https://www.devopsdays.org/events/2018-des-moines/
 
 ---
 
