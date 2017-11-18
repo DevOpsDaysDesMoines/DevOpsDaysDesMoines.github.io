@@ -1,6 +1,6 @@
 # Site settings
 title: DevOpsDays Des Moines
-email:
+email: organizers-des-moines-2018@devopsdays.org
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
